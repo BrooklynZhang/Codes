@@ -1,0 +1,9 @@
+numpy
+gym
+gym-retro
+torch
+pillow
+kivy
+kivy_deps.sdl2
+kivy_deps.glew
+matplotlib
